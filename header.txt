@@ -1,3 +1,6 @@
 Some text for header
 
 changes from <first></first>
+changes from <fix3>
+
+Some text for header
